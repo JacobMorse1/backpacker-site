@@ -12,3 +12,8 @@ posts.
 - Users can view others posts
 - Users can filter posts by area
 - Users can delete their own posts
+
+
+# Data Model
+
+![image](https://user-images.githubusercontent.com/99216959/167518283-2e1c28bf-5160-4620-8645-d130ead0bfc5.png)
